@@ -9,3 +9,4 @@ add remote
 GOGOGOG
 
 I'm mama
+I'm clone
